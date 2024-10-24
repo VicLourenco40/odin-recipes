@@ -28,6 +28,10 @@ img {
   height: 320px;
 }
 
+.recipe-image {
+  width: 426.875px;
+}
+
 ul, ol, .description {
   width: fit-content;
   margin: auto;
